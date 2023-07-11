@@ -90,10 +90,10 @@ const navbarHTML = `
                             <div class="login-button">
                                 <ul>
                                     <li>
-                                        <a href="javascript:void(0)"><i class="lni lni-enter"></i>Ingresar</a>
+                                        <a href="Login.html"><i class="lni lni-enter"></i>Ingresar</a>
                                     </li>
                                     <li>
-                                        <a href="javascript:void(0)"><i class="lni lni-user"></i>Registrar</a>
+                                        <a href="Registrar.html"><i class="lni lni-user"></i>Registrar</a>
                                     </li>
                                 </ul>
                             </div>
