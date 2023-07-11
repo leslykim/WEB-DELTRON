@@ -27,9 +27,6 @@ const navbarHTML = `
                                         </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="javascript:void(0)" aria-label="Toggle navigation">Categorias</a>
-                                    </li>
-                                    <li class="nav-item">
                                         <a class=" dd-menu collapsed" href="javascript:void(0)"
                                             data-bs-toggle="collapse" data-bs-target="#submenu-1-3"
                                             aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -53,8 +50,6 @@ const navbarHTML = `
                                                     <li class="nav-item"><a href="javascript:void(0)">Detalle de Productos</a></li>
                                                     <li class="nav-item"><a href="javascript:void(0)">Insertas Productos</a></li>
                                                     <li class="nav-item"><a href="pricing.html">Tabla de Precios</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Registrate</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Ingresar</a></li>
                                                     <li class="nav-item"><a href="javascript:void(0)">Contactanos</a></li>
                                                     <li class="nav-item"><a href="javascript:void(0)">Preguntas Frecuentes</a></li>
                                                     <li class="nav-item"><a href="404.html">Pagina Error</a></li>
@@ -75,7 +70,7 @@ const navbarHTML = `
                                                     <li class="nav-item"><a href="javascript:void(0)">Productos Favoritos</a>
                                                     </li>
                                                     <li class="nav-item"><a href="javascript:void(0)">Agregar Producto</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Historial de Pedidos</a>
+                                                    <li class="nav-item"><a href="HistorialPedido.html">Historial de Pedidos</a>
                                                     </li>
                                                     <li class="nav-item"><a href="mensajes.html">Chat Bot</a></li>
                                                     <li class="nav-item"><a href="javascript:void(0)">Eliminar Cuenta</a>
