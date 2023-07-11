@@ -80,7 +80,7 @@ const navbarHTML = `
                                                     <li class="nav-item"><a href="mensajes.html">Chat Bot</a></li>
                                                     <li class="nav-item"><a href="javascript:void(0)">Eliminar Cuenta</a>
                                                     </li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Seguimiento de Pedido</a></li>
+                                                    <li class="nav-item"><a href="SeguimientoPedido.html">Seguimiento de Pedido</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
