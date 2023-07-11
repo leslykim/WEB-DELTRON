@@ -1857,7 +1857,7 @@ ul,ol {
 }
 
 .hero-area {
-  background-image: url(https://demo.graygrids.com/themes/classigrids-demo/assets/images/hero/xhero-bg.jpg.pagespeed.ic.55OUNSd_jG.jpg);
+  background-image: url(/deltron-landing/deltron-landing/assets/images/local/Fondo_Pantalla.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1869,8 +1869,8 @@ ul,ol {
 
 .hero-area.overlay::before {
   z-index: -1;
-  background: #081828;
-  opacity: .9
+  background: #fcfcfc;
+  opacity: 0
 }
 
 .hero-area.style2 {
