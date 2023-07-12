@@ -32,9 +32,7 @@ const navbarHTML = `
                                             aria-controls="navbarSupportedContent" aria-expanded="false"
                                             aria-label="Toggle navigation">Listas</a>
                                         <ul class="sub-menu collapse" id="submenu-1-3">
-                                            <li class="nav-item"><a href="javascript:void(0)">Grilla de Productos</a></li>
                                             <li class="nav-item"><a href="listaProductos.html">Lista de Productos</a></li>
-                                            <li class="nav-item"><a href="javascript:void(0)">Detalles de Productos</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item">
@@ -69,7 +67,7 @@ const navbarHTML = `
                                                     <li class="nav-item"><a href="HistorialPedido.html">Historial de Pedidos</a>
                                                     </li>
                                                     <li class="nav-item"><a href="mensajes.html">Chat Bot</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Eliminar Cuenta</a>
+                                                    <li class="nav-item"><a href="EliminarCuenta.html">Eliminar Cuenta</a>
                                                     </li>
                                                     <li class="nav-item"><a href="SeguimientoPedido.html">Seguimiento de Pedido</a></li>
                                                 </ul>
@@ -89,7 +87,7 @@ const navbarHTML = `
                                 </ul>
                             </div>
                             <div class="button header-button">
-                                <a href="javascript:void(0)" class="btn">Publicar Producto</a>
+                                <a href="javascript:void(0)" class="btn">Carrito de Compras</a>
                             </div>
                         </nav> <!-- navbar -->
                     </div>

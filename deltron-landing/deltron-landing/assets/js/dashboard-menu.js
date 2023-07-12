@@ -16,7 +16,7 @@ const dashboardSidebarHTML = `
         </li>
         <li><a href="HistorialPedido.html"><i class="lni lni-bookmark"></i>Historial de Pedidos</a></li>
         <li><a href="mensajes.html"><i class="lni lni-envelope"></i>ChatBot</a></li>
-        <li><a href="javascript:void(0)"><i class="lni lni-trash"></i>Cerrar Cuenta</a></li>
+        <li><a href="EliminarCuenta.html"><i class="lni lni-trash"></i>Cerrar Cuenta</a></li>
         <li><a href="SeguimientoPedido.html"><i class="lni lni-trash"></i>Seguimiento de Pedido</a></li>
     </ul>
     <div class="button">
