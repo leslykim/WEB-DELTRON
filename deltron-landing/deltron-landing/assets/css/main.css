@@ -4761,6 +4761,23 @@ blockquote .shape {
   padding-bottom: 30px
 }
 
+.whatsapp {
+    position:fixed;
+    width:35px;
+    height:50px;
+    bottom:100px;
+    right:40px;
+    
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+  
+.whatsapp-icon {
+    margin-top:15px;
+ }
+
 .dashboard-block .block-title {
   padding: 25px 30px;
   font-size: 18px;

@@ -46,15 +46,7 @@ const navbarHTML = `
                                                     <li class="mega-menu-title">Paginas Escenciales</li>
                                                     <li class="nav-item"><a href="about-us.html">Quienes Somos</a></li>
                                                     <li class="nav-item"><a href="DetalleProductos.html">Detalle de Productos</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Insertas Productos</a></li>
-                                                    <li class="nav-item"><a href="pricing.html">Tabla de Precios</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Contactanos</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Preguntas Frecuentes</a></li>
                                                     <li class="nav-item"><a href="404.html">Pagina Error</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Envio Correo</a>
-                                                    </li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Proximamante</a>
-                                                    </li>
                                                 </ul>
                                             </li>
                                             <li class="single-block">
