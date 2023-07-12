@@ -10,13 +10,10 @@ const dashboardSidebarHTML = `
 </div>
 <div class="dashboard-menu">
     <ul>
-        <li><a href="javascript:void(0)"><i class="lni lni-dashboard"></i>Perfil</a></li>
+        <li><a href="Dashboard.html"><i class="lni lni-dashboard"></i>Perfil</a></li>
         <li>
-            <a href="javascript:void(0)"><i class="lni lni-pencil-alt"></i>Editar Perfil</a>
+            <a href="EditarPerfil.html"><i class="lni lni-pencil-alt"></i>Editar Perfil</a>
         </li>
-        <li><a href="javascript:void(0)"><i class="lni lni-bolt-alt"></i>Mis Productos</a></li>
-        <li><a href="javascript:void(0)"><i class="lni lni-heart"></i>Productos Favoritos</a></li>
-        <li><a href="javascript:void(0)"><i class="lni lni-circle-plus"></i>Publicar un Producto</a></li>
         <li><a href="HistorialPedido.html"><i class="lni lni-bookmark"></i>Historial de Pedidos</a></li>
         <li><a href="mensajes.html"><i class="lni lni-envelope"></i>ChatBot</a></li>
         <li><a href="javascript:void(0)"><i class="lni lni-trash"></i>Cerrar Cuenta</a></li>

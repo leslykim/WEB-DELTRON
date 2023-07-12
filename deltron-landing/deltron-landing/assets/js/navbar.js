@@ -62,14 +62,10 @@ const navbarHTML = `
                                             <li class="single-block">
                                                 <ul>
                                                     <li class="mega-menu-title">Dashboard</li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Account Overview</a>
+                                                    <li class="nav-item"><a href="Dashboard.html">Mi Perfil</a>
                                                     </li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Mi Perfil</a>
+                                                    <li class="nav-item"><a href="EditarPerfil.html">Editar Perfil</a>
                                                     </li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Mis Productos</a></li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Productos Favoritos</a>
-                                                    </li>
-                                                    <li class="nav-item"><a href="javascript:void(0)">Agregar Producto</a></li>
                                                     <li class="nav-item"><a href="HistorialPedido.html">Historial de Pedidos</a>
                                                     </li>
                                                     <li class="nav-item"><a href="mensajes.html">Chat Bot</a></li>
